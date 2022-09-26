@@ -1,0 +1,30 @@
+*{
+    padding-left: 50px;
+}
+
+h1{
+    margin-left: 180px;
+}
+
+.contenedor0{
+    height: 1000px;
+    width: 1000px;
+}
+
+.bloque_celeste{
+    background-color: #9fc5f8;
+    height: 130px;
+    width: 100px;
+    margin-left: 10px;
+    border: black solid;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+.bloque{
+    height: 130px;
+    width: 100px;
+    margin-left: 10px;
+    border: black solid;
+    border-radius: 10px;
+}
